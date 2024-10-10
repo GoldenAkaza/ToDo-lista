@@ -1,13 +1,8 @@
-# Project Title 
-The name of the Project and all authors involved
+# ToDo-lista 
+Projekti nimi "ToDo-lista" ja tekijä on Jasper Huhtala.
 
 ## Demo link:
 Access my site at [google.com](https://google.com)
-
-## How was the workload divided
-How was the workload divided. Who did what? 
-
-
 
 ## Table of Content:
 
@@ -21,17 +16,18 @@ How was the workload divided. Who did what?
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
+[ToDo-lista] on yksinkertainen sovellus, johon voit kirjoittaa tehtäviä joita aiot tehdä ja merkitä ne valmiiksi tai poistaa.
 
 ## Screenshots
-Add here atleast one screenshot of the working application 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+![image](https://github.com/user-attachments/assets/2dc86179-9784-477b-8137-b002901db85c)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+Picture by Jasper Huhtala.
 
 ## Technologies
-Describe which technologies were used and the role of each in your project. 
-I used the following technologies `html`, `css`, ...
+Sovellukseen käytin HTML, Css ja Java.
+HTML on alusta jossa sovellus toimii.
+Css käytin tyylittelyä varten.
+Javaa käytin Javascriptiä ja DOM-scriptaus, että sovellus toimii miten sen pitäisi toimia.
 
 ## Setup
 Write brief instructions on how to run and use your app. For example:
