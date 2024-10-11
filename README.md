@@ -2,7 +2,11 @@
 Projekti nimi "ToDo-lista" ja tekijä on Jasper Huhtala.
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+Tässä löytyy lyhyt demo video, kuinka tämä sovellus toimii
+
+
+https://github.com/user-attachments/assets/e5659b1d-5a9c-4c81-b33a-58c6977d1a9b
+
 
 ## Table of Content:
 
@@ -13,7 +17,6 @@ Access my site at [google.com](https://google.com)
 - [Approach](#approach)
 - [Status](#status)
 - [Credits](#credits)
-- [License](#license)
 
 ## About The App
 [ToDo-lista] on yksinkertainen sovellus, johon voit kirjoittaa tehtäviä joita aiot tehdä ja merkitä ne valmiiksi tai poistaa.
@@ -24,27 +27,24 @@ Access my site at [google.com](https://google.com)
 Picture by Jasper Huhtala.
 
 ## Technologies
-Sovellukseen käytin HTML, Css ja Java.
-HTML on alusta jossa sovellus toimii.
+Sovellukseen käytin HTML, Css ja JavaScript.
+HTML on alusta, jossa sovellus toimii.
 Css käytin tyylittelyä varten.
-Javaa käytin Javascriptiä ja DOM-scriptaus, että sovellus toimii miten sen pitäisi toimia.
+JavaScriptiä, että sovellus toimii miten sen pitäisi toimia.
 
 ## Setup
-Write brief instructions on how to run and use your app. For example:
-- download all the files and open index.html in your browser
-- download or clone the repository
-- run `npm install`
-- ...
+Kaksi tapaa käyttää tätä sovellusta.
+
+- Lataa kaikki tiedostot and avaa index.html selaimeesi
+
+tai
+
+- voit käyttää tätä linkkiä (https://todo-lista-e1df41.netlify.app/)
 
 ## Status
-[name of project] is still in progress. `Version 2` will be out soon.
+ToDo-lista on tällä hetkellä valmis, mutta siihen voi lisätä toimintoja tulevaisuudessa.
 
 ## Credits
 List of contriubutors and sources you used during the project. Also mention if you used ChatGPT or other AI tools when coding and explain how did you benefit from them.
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
-
-## License
-Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Example: MIT license @ [author](author.com)
+- ProMaker Dev (https://youtu.be/fYTTUBa-lPc?si=sTadfls8utxHiGnl) LocalStorage mitä se on ja miten se toimii. 
+- Chat GPT:ä Käytin aputyökaluna selvittää ongelmia, kuten miten saada yliviivaa tehtävät listalta ilman ettei se ylivaa napit samalla.
