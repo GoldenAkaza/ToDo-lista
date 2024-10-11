@@ -39,7 +39,7 @@ Kaksi tapaa käyttää tätä sovellusta.
 
 tai
 
-- voit käyttää tätä linkkiä (https://todo-lista-e1df41.netlify.app/)
+- voit myös käyttää tätä linkkiä, jos et halua ladata tiedostoja. (https://todo-lista-e1df41.netlify.app/)
 
 ## Status
 ToDo-lista on tällä hetkellä valmis, mutta siihen voi lisätä toimintoja tulevaisuudessa.
